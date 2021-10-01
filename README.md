@@ -8,5 +8,7 @@ Tech Stack used in this website:
 + HTML5
 + CSS
 + JavaScript
++ SCSS
++ PHP
 
 *Still Under Development*
